@@ -1,0 +1,3 @@
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\x64\Debug\dn,.vcxproj.AssemblyReference.cache
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\x64\Debug\dn_.Form1.resources
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\x64\Debug\dn,.vcxproj.GenerateResource.cache

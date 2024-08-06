@@ -1,0 +1,18 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(1,1): warning C4005: '__CLR_VER': makro yeniden tanımlama
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(1,1): message : '__CLR_VER' önceden komut satırında bildirildi
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(1,1): warning C4651: '/D__CLR_VER=40809181', geçerli derleme için değil, önceden derlenmiş üstbilgi için belirtilmiş
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(36,20): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(95,38): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(108,55): warning C4244: '=': '_Tp' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\derya\OneDrive\Masaüstü\dn,\dn,\CppCLR_WinFormsProject.cpp(213,45): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  AssemblyInfo.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  dn,.vcxproj -> C:\Users\derya\OneDrive\Masaüstü\dn,\x64\Debug\dn,.exe
